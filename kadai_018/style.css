@@ -7,7 +7,7 @@
   padding-bottom: 20px;
   text-align: center;
 }
-p {
+p .top-child{
   display: inline-block;
   width: 20%;
   background-color: #ffd9df;     
